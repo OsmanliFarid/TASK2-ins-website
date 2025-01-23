@@ -26,17 +26,15 @@ body{
     justify-content: space-between;
     height: 50px;
 }
+.navbar-text{
+    font-size: 19px;
+    margin-left: 15px;
+}
 .fa-wifi{
     margin-right: -200px;
 }
 .fa-signal{
     margin-right: -200px;
-}
-.navbar-text{
-    margin-left: 16px;
-    font-size: 16px;
-    border: 1px solid black;
-    padding: -0px 15px;
 }
 .fa-battery-full{
     margin-right: 15px
@@ -48,8 +46,11 @@ body{
     align-items: center;
 }
 .text2{
-    margin-right: 125px;
+    margin-right: 10px;
     font-size: 19px;
+}
+.btn-img2{
+    margin-right: 105px;
 }
 .fa-bars{
     font-size: 19px;
