@@ -111,7 +111,7 @@ body{
     text-align: center;
 }
 .text9{
-    font-size: 19px;
+    font-size: 17px;
 }
 .container{
     width: 370px;
@@ -133,10 +133,10 @@ body{
 .box8{
     align-items: center;
     display: flex;
-    margin-top: 10px;
-   
+    margin-top: 15px;
+    
     border-bottom: 1px solid rgb(197, 197, 197);
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     width: 100%;
 
 }
@@ -202,4 +202,52 @@ body{
 .navbar-footer{
     display: flex;
     flex-wrap: nowrap;
+}
+.box8 h1{
+    font-size: 14px;
+    text-align: center;
+}
+.box8-part1{
+    text-align: center;
+    transition: 1.2s;
+}
+.box8-part1:hover{
+    transform: scale(1.1 );
+    -webkit-animation: 1.2s ease;
+}
+.box8-part2{
+    text-align: center;
+    transition: 1.2s;
+}
+.box8-part2:hover{
+    transform: scale(1.1 );
+    -webkit-animation: 1.2s ease;
+}
+.box8-part3{
+    text-align: center;
+    transition: 1.2s;
+}
+.box8-part3:hover{
+    transform: scale(1.1 );
+    -webkit-animation: 1.2s ease;
+}
+.box8-part4{
+    text-align: center;
+    transition: 1.2s;
+}
+.box8-part4:hover{
+    transform: scale(1.1 );
+    -webkit-animation: 1.2s ease;
+}
+.p1-text1{
+    margin-left: 19px;
+}
+.p1-text2{
+    margin-left: 19px;
+}
+.p1-text3{
+    margin-left: 19px;
+}
+.p1-text4{
+    margin-left: 19px;
 }
