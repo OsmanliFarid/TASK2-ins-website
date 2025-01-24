@@ -20,6 +20,9 @@ body,html{
 body{
     background-color: black;
 }
+header{
+    background-color: #FAFAFA;
+}
 .img1{
     width: 75px;
     height: 75px;
@@ -29,6 +32,82 @@ body{
     align-items: center;
     justify-content: space-between;
     height: 50px;
+}
+.part3-box1{
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+}
+.fa-camera{
+    color: black;
+    font-size: 29px;
+    margin-left: 15px;
+}
+.part3-img1{
+    margin-left: 45px;
+}
+.part3-img3{
+    margin-left: 10px;
+}
+.part3-img2{
+    margin-left: 30px;
+}
+.part3-img4{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.part3-box2{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-top: 1px solid #FEFEFE;
+    border-bottom: 1px solid #FEFEFE;
+    margin-top: 20px;
+}
+.part3-box2 h1{
+    font-size: 14px;
+    color: #262626;
+}
+.part3-header-1{
+    text-align: center;
+    margin-left: 25px;
+}
+.part3-header-2{
+    text-align: center;
+    margin-left: 25px;
+}
+.part3-header-3{
+    text-align: center;
+    margin-left: 25px;
+}
+.part3-header-4{
+    text-align: center;
+    margin-left: 25px;
+}
+.part3-img5{
+    width: 60px;
+    height: 60px;
+}
+.part3-box-2-4{
+    display: flex;
+    align-items: center;
+}
+.part3-boxs3{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.part3-boxs3 h1{
+    font-size: 12px;
+    margin-left: 10px;
+}
+.part3-img9{
+    width: 10px;
+    height: 10px;
+}
+.part3-text4{
+    margin-top: -3px;
 }
 .navbar-text{
     font-size: 19px;
@@ -46,6 +125,8 @@ body{
 .navbar-footer{
     display: flex;
     flex-wrap: nowrap;
+    margin-top: 20px;
+    margin-left: -10px;
 }
 .footer-navbar1{
     font-size: 29px;
@@ -55,29 +136,33 @@ body{
 .footer-navbar2{
     font-size: 29px;
     color: black;
-    margin-left: 40px;
+    margin-left: 45px;
 }
 .footer-navbar3{
     font-size: 29px;
     color: black;
-    margin-left: 40px;
+    margin-left: 45px;
 }
 .footer-navbar4{
     font-size: 29px;
     color: black;
-    margin-left: 40px;
+    margin-left: 45px;
 }
 .footer-navbar5{
     font-size: 29px;
     color: black;
-    margin-left: 40px;
+    margin-left: 45px;
 }
 .fa-house{
     color: blue;
 }
 
-
-
+.part3-img8{
+    margin-top: 2px;
+}
+.part3-box6{
+    display: flex;
+}
 
 .navbar-footer a:after{
     content: '';
@@ -100,4 +185,64 @@ body{
     margin-top: 3px;
     margin-inline: auto;
     transition: 0.3s;
+}
+.part3-img10{
+    margin-left: 240px;
+}
+.part3-box5{
+    background: url(../images/Rectangle.png) no-repeat center;
+    background-size: cover;
+    width: 375px;
+    height: 375px;
+    margin-top: 10px;
+}
+.part3-icon{
+    margin-left: 15px;
+}
+.part3-box6{
+    font-size: 26px;
+    margin-top: 10px;
+}
+.part3-icon2{
+    margin-left: 15px;
+}
+.part3-icon3{
+    margin-left: 115px;
+}
+.part3-img11{
+    margin-left: 15px;
+    height: 23px;
+    width: 20px;
+    margin-top: 5px;
+}
+.part3-img12{
+    margin-left: 70px;
+    height: 8px;
+    margin-top: 10px;
+}
+.part3-box7{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+.part3-text8{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.part3-img13{
+    width: 17px;
+    height: 17px;
+    margin-left: 17px;
+}
+.part3-text9{
+    font-size: 16px;
+    
+}
+.descripton{
+    font-size: 18px;
+    color: red;
+
+}
+.part3-box8{
+    margin-left: 17px;
 }
