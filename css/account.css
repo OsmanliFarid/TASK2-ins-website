@@ -51,3 +51,79 @@ body{
     margin-left: 16px;
     margin-top: 10px;
 }
+.part2-img2{
+    margin-left: 90px;
+    margin-top: 180px;
+}
+.InpBtn{
+    display: block;
+}
+#salam{
+    display: block;
+    font-size: 20px;
+}
+input{
+    display: block;
+}
+#salam2, #salam{
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 350px;
+    height: 40px;
+    opacity: 0.3;
+}
+#salam2{
+    margin-top: 20px;
+    font-size: 20px;
+    opacity: 0.3;
+}
+.part2-text1{
+    text-align: end;
+    margin-top: 5px;
+    margin-right: 10px;
+    color: #3797EF;
+}
+.part2-text2{
+    font-size: 18px;
+    background-color: #3797EF;
+    color: #fff;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 4px;
+    display: block;
+}
+.part2-boxs3{
+    margin-top: 20px;
+}
+.part2-boxs4{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+.part2-text3{
+    font-size: 19px;
+    color: #3797EF;
+    margin-left: 10px;
+}
+.fa-square-facebook{
+    color: #3797EF;
+    margin-left: 85px;
+}
+.part2-boxs5{
+    align-items: center;
+
+}
+.part2-text4{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.part2-text5{
+    color: #000;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 50px;
+}
+.text0{
+    color: #3797EF;
+}
