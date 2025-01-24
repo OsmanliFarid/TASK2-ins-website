@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   text-decoration: none;
+}
+@font-face {
+    font-family: boxin;
+    src: url(../fonts/Crimson_Text/CrimsonText-Regular.ttf);
+}
+body,html{
+    font-family: boxin;
+}
+.boss{
+    width: 375px;
+    height: 932px;
+    background-color: #FAFAFA;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+header{
+    background-color: #FAFAFA;
+}
+.img1{
+    width: 75px;
+    height: 75px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+.navbar-footer{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 20px;
+    margin-left: -10px;
+}
+.footer-navbar1{
+    font-size: 29px;
+     color: black;
+     margin-left: 30px;
+}
+.footer-navbar2{
+    font-size: 29px;
+    color: blue;
+    margin-left: 45px;
+}
+.footer-navbar3{
+    font-size: 29px;
+    color: black;
+    margin-left: 45px;
+}
+.footer-navbar4{
+    font-size: 29px;
+    color: black;
+    margin-left: 45px;
+}
+.footer-navbar5{
+    font-size: 29px;
+    color: black;
+    margin-left: 45px;
+}
+.fa-house{
+    color: black;
+}
+
+.part3-img8{
+    margin-top: 2px;
+}
+.part3-box6{
+    display: flex;
+}
+
+.navbar-footer a:after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background-color: black;
+    display: flex;
+    border-radius: 3px;
+    margin-top: 3px;
+    margin-inline: auto;
+    transition: 0.3s;
+}
+.navbar-footer a:hover::after{
+    content: '';
+    width: 100%;
+    height: 3px;
+    background-color: black;
+    display: flex;
+    border-radius: 3px;
+    margin-top: 3px;
+    margin-inline: auto;
+    transition: 0.3s;
+}
+.fa-wifi{
+    margin-right: -200px;
+}
+.fa-signal{
+    margin-right: -200px;
+}
+.fa-battery-full{
+    margin-right: 15px
+}
+.navbar-text{
+    font-size: 19px;
+    margin-left: 15px;
+}
