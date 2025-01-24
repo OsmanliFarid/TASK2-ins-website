@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+@font-face {
+    font-family: boxin;
+    src: url(../fonts/Crimson_Text/CrimsonText-Regular.ttf);
+}
+body,html{
+    font-family: boxin;
+}
+.boss{
+    width: 375px;
+    height: 932px;
+    background-color: #FAFAFA;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+.img1{
+    width: 75px;
+    height: 75px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+.navbar-text{
+    font-size: 19px;
+    margin-left: 15px;
+}
+.fa-wifi{
+    margin-right: -200px;
+}
+.fa-signal{
+    margin-right: -200px;
+}
+.fa-battery-full{
+    margin-right: 15px
+}
+.boss2{
+    width: 370px;
+    margin: auto;
+}
+.part2-img1{
+    margin-left: 16px;
+    margin-top: 10px;
+}
