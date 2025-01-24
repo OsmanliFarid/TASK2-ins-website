@@ -20,6 +20,10 @@ body,html{
 body{
     background-color: black;
 }
+.img1{
+    width: 75px;
+    height: 75px;
+}
 .navbar{
     display: flex;
     align-items: center;
@@ -139,6 +143,14 @@ body{
     padding-bottom: 20px;
     width: 100%;
 
+}
+.img-13{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border: 1px solid black;
 }
 .img-2{
     border: 1px solid black;
